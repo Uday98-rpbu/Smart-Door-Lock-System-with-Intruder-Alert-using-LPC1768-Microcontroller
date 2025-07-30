@@ -1,4 +1,4 @@
-# Smart Door Lock System with Intruder Alert
+# Smart Door Lock System with Intruder Alert using LPC1768 microcontroller
 
 This is my first embedded systems project using the **LPC1768** microcontroller. It implements a secure, password-protected door lock system with an intruder alert feature.
 
