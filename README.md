@@ -1,4 +1,4 @@
-# Smart Door Lock System with Intruder Alert using LPC1768 microcontroller
+# Smart Door Lock System with Intruder Alert using the LPC1768 microcontroller
 
 This is my first embedded systems project using the **LPC1768** microcontroller. It implements a secure, password-protected door lock system with an intruder alert feature.
 
@@ -14,10 +14,22 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
 
 - `main.c` – Main program logic
 - `keypad_fun.c` – Keypad handling functions
+- `keypad_header.h` – Keypad function declarations
 - `lcd_fun.c` – LCD display functions
-- `lcd_header.h` – LCD header file
-- `smart_door_lock.pptx` – Project presentation
-- `Project_Report.pdf` – Detailed project documentation
+- `lcd_header.h` – LCD function declarations
+
+
+## 🛠️ Development & Programming Tools
+
+- **IDE Used**: Keil uVision5  
+  Used for writing, compiling, and building the embedded C code for LPC1768.
+
+- **Programming Tool**: Flash Magic  
+  Used to upload the generated `.hex` file to the LPC1768 microcontroller via serial interface.
+
+- **Microcontroller**: LPC1768 (ARM Cortex-M3)
+
+> 💡 After compiling the code in Keil, the `.hex` file is found in the `Objects/` folder and is uploaded to the LPC1768 board using **Flash Magic** via USB-to-Serial interface.
 
 ## 🎯 Features
 
