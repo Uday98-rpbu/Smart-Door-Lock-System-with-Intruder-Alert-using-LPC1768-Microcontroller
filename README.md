@@ -8,7 +8,24 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
 - **Input**: 4x4 Keypad
 - **Output**: 16x2 LCD, Servo Motor, Buzzer
 - **Sensors**: IR Sensor for presence detection
-- **Security**: Access is granted on correct password. After 3 wrong attempts, buzzer alert is triggered and access is blocked.
+- **Security Logic**:
+The system uses a 4-digit password for secure access.
+
+The user has a maximum of 3 attempts to enter the correct password.
+
+On each wrong attempt, the buzzer alerts as follows:
+
+1st wrong attempt → 🔊 Buzzer beeps once
+
+2nd wrong attempt → 🔊 Buzzer beeps twice
+
+3rd wrong attempt → 🔊 Buzzer beeps three times, then:
+
+A long continuous beep is triggered
+
+LCD displays "Access Blocked!" and "TRY LATER.."
+
+System is locked using while(1); (halts operations)
 
 ## 📄 Files Included
 
