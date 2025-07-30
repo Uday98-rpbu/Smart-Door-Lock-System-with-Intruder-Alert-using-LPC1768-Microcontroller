@@ -12,9 +12,9 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
     -  The system uses a 4-digit password for secure access.
     -  The user has a maximum of 3 attempts to enter the correct password.
     -  On each wrong attempt, the buzzer alerts as follows:
-      -	1st wrong attempt → Buzzer beeps once
-      -	2nd wrong attempt → Buzzer beeps twice
-      -	3rd wrong attempt → Buzzer beeps three times, then:
+ 	-  1st wrong attempt → Buzzer beeps once
+    -  2nd wrong attempt → Buzzer beeps twice
+    -  3rd wrong attempt → Buzzer beeps three times, then:
   -	A long continuous beep is triggered
   -	LCD displays "**Access Blocked**!" and **"TRY LATER.."**
   -	System is locked using while(1); (halts operations)
