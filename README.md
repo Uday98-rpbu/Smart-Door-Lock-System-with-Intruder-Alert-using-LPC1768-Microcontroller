@@ -78,7 +78,7 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
 
 
 ## 🧑‍💻 Author
-**Uday Reddi**  
+**Reddi Udaya Ram**  
 This project is part of an embedded systems application using LPC1768 for secure and smart access control.
 
 ## 🎥 Demo Video
