@@ -75,15 +75,18 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
    - Wrong password → Buzzer beeps
    - 3 wrong attempts → Intruder alert triggers
 
+## 🎥 Demo Video
+
+Watch the demo here: [Click to View](https://drive.google.com/file/d/1eT5w5-om8lTmRmwggTFrgR7XZJE2VEgE/view?usp=drive_link)
+
+### 📥 Download Software Files
+
+👉 [Download from Google Drive](https://drive.google.com/file/d/1aB2cD3EfGhIjKlMn/view?usp=sharing)
 
 
 ## 🧑‍💻 Author
 **Reddi Udaya Ram**  
 This project is part of an embedded systems application using LPC1768 for secure and smart access control.
 
-## 🎥 Demo Video
-
-Watch the demo here: [Click to View](https://drive.google.com/file/d/1eT5w5-om8lTmRmwggTFrgR7XZJE2VEgE/view?usp=drive_link)
----
 
 > 🎓 This is my first GitHub project upload. Feedback and suggestions are welcome!
