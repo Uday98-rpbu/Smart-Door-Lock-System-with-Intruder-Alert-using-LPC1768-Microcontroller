@@ -60,6 +60,9 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
 **Reddi Udaya Ram**  
 Student Project – Embedded Systems
 
+## 🎥 Demo Video
+
+Watch the demo here: [Click to View](https://drive.google.com/drive/folders/1hgaXLjD4I4o1oUzPuYmaizF8yFHkdlX0?usp=drive_link)
 ---
 
 > 🎓 This is my first GitHub project upload. Feedback and suggestions are welcome!
