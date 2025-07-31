@@ -75,10 +75,9 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
 - Labs, hostels, and secure areas
 - Password-protected lockers
 
-## 🙋‍♂️ Author
-
-**Reddi Udaya Ram**  
-Student Project – Embedded Systems
+## 🧑‍💻 Author
+**Uday Reddi**  
+This project is part of an embedded systems application using LPC1768 for secure and smart access control.
 
 ## 🎥 Demo Video
 
