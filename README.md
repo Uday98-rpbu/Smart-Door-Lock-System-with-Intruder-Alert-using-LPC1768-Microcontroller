@@ -76,7 +76,7 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
    - 3 wrong attempts → Intruder alert triggers
 
 ## 🎥 Demo Video and 📥 Download Software Files
-       👉 [Download from Google Drive](https://drive.google.com/drive/folders/1XU0to32IcdqPYyNPYPcM-zZH9jeyx1A5?usp=drive_link)
+👉 [Download from Google Drive](https://drive.google.com/drive/folders/1XU0to32IcdqPYyNPYPcM-zZH9jeyx1A5?usp=drive_link)
 
 ## 🧑‍💻 Author
 **Reddi Udaya Ram**  
