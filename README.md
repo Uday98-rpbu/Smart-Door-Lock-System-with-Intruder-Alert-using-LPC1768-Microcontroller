@@ -82,7 +82,7 @@ Student Project – Embedded Systems
 
 ## 🎥 Demo Video
 
-Watch the demo here: [Click to View](https://drive.google.com/file/d/138FIL0i8K1n45XLXO03ZM_q3xjP1O3Lz/view?usp=drive_link)
+Watch the demo here: [Click to View](https://drive.google.com/file/d/1eT5w5-om8lTmRmwggTFrgR7XZJE2VEgE/view?usp=drive_link)
 ---
 
 > 🎓 This is my first GitHub project upload. Feedback and suggestions are welcome!
