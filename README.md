@@ -49,6 +49,26 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
 - Servo motor to unlock/lock door
 - IR sensor to detect nearby user
 
+ ## 🚀 How to Run
+
+1. **Compile the Code**
+   - Open the project in **Keil µVision**
+   - Add the `.c` and `.h` files to your project
+   - Build the project
+
+2. **Flash the Code**
+   - Generate the HEX file
+   - Use **Flash Magic** to upload the HEX to LPC1768
+
+3. **Connect the Hardware**
+   - Connect keypad, LCD, IR sensor, buzzer, and servo motor as per the pin configuration in the code
+
+4. **Test the System**
+   - Enter password via keypad
+   - Correct password → Servo unlocks door
+   - Wrong password → Buzzer beeps
+   - 3 wrong attempts → Intruder alert triggers
+
 ## 📚 Applications
 
 - Smart home or office entry systems
