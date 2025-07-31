@@ -49,6 +49,12 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
 - Servo motor to unlock/lock door
 - IR sensor to detect nearby user
 
+## 📚 Applications
+
+- Smart home or office entry systems
+- Labs, hostels, and secure areas
+- Password-protected lockers
+
  ## 🚀 How to Run
 
 1. **Compile the Code**
@@ -69,11 +75,7 @@ This is my first embedded systems project using the **LPC1768** microcontroller.
    - Wrong password → Buzzer beeps
    - 3 wrong attempts → Intruder alert triggers
 
-## 📚 Applications
 
-- Smart home or office entry systems
-- Labs, hostels, and secure areas
-- Password-protected lockers
 
 ## 🧑‍💻 Author
 **Uday Reddi**  
